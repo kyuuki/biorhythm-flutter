@@ -1,6 +1,6 @@
-# Flutter サンプルベース
+# biorhythm
 
-Flutter サンプルを作成するためのベース
+biorhythm
 
 ## Table of Contents
 
